@@ -1,0 +1,64 @@
+﻿  Physics.cpp
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(132): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(133): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(134): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(135): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(104): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(106): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(28): warning C4101: 'point': unreferenced local variable
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(168): warning C4838: conversion from '__int64' to 'float' requires a narrowing conversion
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(168): warning C4305: 'initializing': truncation from '__int64' to 'float'
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(198): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(225): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(226): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(359): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(434): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(435): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(645): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(646): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(688): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\physics.cpp(689): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(132): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(133): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(134): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(135): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  Input.cpp
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(132): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(133): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(134): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(135): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\input.cpp(21): warning C4244: '=': conversion from 'WPARAM' to 'char', possible loss of data
+  Graphics.cpp
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(132): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(133): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(134): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\commonstuff.h(135): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(87): warning C4091: 'static ': ignored on left of 'BitmapFileHeader' when no variable is declared
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(100): warning C4091: 'static ': ignored on left of 'BitmapInfoHeader' when no variable is declared
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(237): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(238): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(324): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(327): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(329): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(330): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(345): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(351): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(444): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(584): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(677): warning C4838: conversion from 'u_short' to 'float' requires a narrowing conversion
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(683): warning C4838: conversion from 'u_short' to 'float' requires a narrowing conversion
+  Generating Code...
+d:\desktop\udp\enginev1 - kopya - kopya\enginev1\graphics.cpp(599): warning C4715: 'loadFont': not all control paths return a value
+  EngineV1.vcxproj -> D:\Desktop\udp\EngineV1 - Kopya - Kopya\x64\Debug\EngineV1.exe
+  EngineV1.vcxproj -> D:\Desktop\udp\EngineV1 - Kopya - Kopya\x64\Debug\EngineV1.pdb (Partial PDB)
