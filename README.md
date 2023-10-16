@@ -2,6 +2,8 @@
 
 Welcome to the demo showcasing collision detection and response for 2D objects using the Separating Axis Theorem (SAT) algorithm in a Windows environment. This project not only performs collision checks between two objects but also provides visual representation and diagnostics to better understand the underlying mechanisms.
 
+![Showcase](demo.gif)
+
 ## 🌟 Features:
 
 1. **Separating Axis Theorem (SAT)**: Reliable method to check if two convex polygons are intersecting.
